@@ -57,11 +57,11 @@ else :
 	실행문
 ```
 ## 논리연산자
-- X and Y 둘다 참이어야 참
-- X or Y 둘중 하나 참이어야 참 
-- not X X가 참이라면 참이 아니다
-- True False -> 첫글자 대문자여야 인식함 
-- 0, None, 비어있는값 ->False로 해석, 그외 True (js와 비슷)
+- X and Y : 둘다 참이어야 참
+- X or Y : 둘중 하나 참이어야 참 
+- not X : X가 참이라면 참이 아니다
+- True, False : 첫글자 대문자여야 인식함 
+- 0, None, 비어있는값 : False로 해석, 그외 True (js와 비슷)
 
 ## 주석처리
 
